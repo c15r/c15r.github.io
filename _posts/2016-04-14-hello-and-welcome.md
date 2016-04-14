@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Pixyll in Action
-date:       2014-06-10 12:31:19
-summary:    See what the different elements looks like. Your markdown has never looked better. I promise.
+title:      Hello and Welcome
+date:       2016-04-14
+summary:    Every blog needs a start
 categories: jekyll pixyll
 ---
 
